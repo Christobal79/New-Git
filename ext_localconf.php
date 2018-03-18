@@ -13,7 +13,14 @@ if (TYPO3_MODE === 'BE') {
 
     \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addUserTSConfig(
         test1
+<<<<<<< HEAD
 test2
 
 test3
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> parent of 79662fe... test2
+>>>>>>> parent of c7b6d51... test2
 }
