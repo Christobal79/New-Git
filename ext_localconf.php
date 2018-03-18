@@ -13,6 +13,19 @@ if (TYPO3_MODE === 'BE') {
 
     \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addUserTSConfig(
         test1
+<<<<<<< HEAD
         test2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+        test3 
+=======
+<<<<<<< HEAD
+>>>>>>> parent of f40d115... delete
+=======
+>>>>>>> parent of 7edc708... test3
+>>>>>>> parent of 451c26a... Revert "Revert "delete""
 
+=======
+>>>>>>> parent of 79662fe... test2
 }
