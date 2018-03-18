@@ -15,10 +15,13 @@ if (TYPO3_MODE === 'BE') {
         test1
 <<<<<<< HEAD
         test2
+<<<<<<< HEAD
         test3 
 =======
 <<<<<<< HEAD
 >>>>>>> parent of f40d115... delete
+=======
+>>>>>>> parent of 7edc708... test3
 
 =======
 >>>>>>> parent of 79662fe... test2
