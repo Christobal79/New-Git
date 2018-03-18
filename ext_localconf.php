@@ -15,6 +15,7 @@ if (TYPO3_MODE === 'BE') {
         test1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         test2
         test3 
 =======
@@ -22,7 +23,9 @@ if (TYPO3_MODE === 'BE') {
 >>>>>>> parent of f40d115... delete
 =======
 >>>>>>> parent of f40d115... delete
-
 =======
->>>>>>> parent of 79662fe... test2
+        test2
+        test3 
+>>>>>>> parent of 22e913d... Revert "delete"
+
 }
