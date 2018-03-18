@@ -12,4 +12,5 @@ if (TYPO3_MODE === 'BE') {
         'Classes/Backend/View/OtBootstrap3TtContentDrawItem.php:OtBootstrap3TtContentDrawItem';
 
     \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addUserTSConfig(
+        test1
 }
