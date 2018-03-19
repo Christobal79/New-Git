@@ -19,10 +19,6 @@ if (TYPO3_MODE === 'BE') {
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> parent of a0973fb... Revert "Revert "Revert "qqq"""
         test2
         test3 
 =======
@@ -30,15 +26,7 @@ if (TYPO3_MODE === 'BE') {
 >>>>>>> parent of f40d115... delete
 =======
 >>>>>>> parent of f40d115... delete
-<<<<<<< HEAD
 >>>>>>> parent of 5d45a34... Revert "Revert "qqq""
-=======
-=======
-        test2
-        test3 
->>>>>>> parent of 22e913d... Revert "delete"
->>>>>>> parent of e83a66e... Revert "qqq"
->>>>>>> parent of a0973fb... Revert "Revert "Revert "qqq"""
 
 =======
 >>>>>>> parent of 79662fe... test2
