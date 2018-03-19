@@ -13,9 +13,10 @@ if (TYPO3_MODE === 'BE') {
 
     \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addUserTSConfig(
         test1
-        test2
-        test3 
 <<<<<<< HEAD
+        test2
+<<<<<<< HEAD
+        test3 
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -38,7 +39,7 @@ if (TYPO3_MODE === 'BE') {
 >>>>>>> parent of 451c26a... Revert "Revert "delete""
 >>>>>>> parent of fcab457... Revert "Revert "Revert "Revert "delete""""
 >>>>>>> parent of 0d21762... Revert "qqq"
-=======
->>>>>>> parent of 00b8c29... qqq
 
+=======
+>>>>>>> parent of 79662fe... test2
 }
